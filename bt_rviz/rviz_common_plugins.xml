@@ -1,0 +1,7 @@
+<library path="bt_vis_panel">
+    <class type="bt_rviz::BTVisPanel" base_class_type="rviz_common::Display">
+      <description>Visualises Behavior Trees in RViz.</description>
+      <message_type>bt_msgs/msg/BT</message_type>
+    </class>
+</library>
+  
